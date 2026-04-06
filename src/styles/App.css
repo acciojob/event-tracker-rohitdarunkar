@@ -1,1 +1,19 @@
+.btn {
+  margin: 5px;
+  padding: 8px;
+  cursor: pointer;
+}
 
+.mm-popup__btn {
+  padding: 8px;
+}
+
+.mm-popup__btn--info {
+  background: blue;
+  color: white;
+}
+
+.mm-popup__btn--danger {
+  background: red;
+  color: white;
+}
